@@ -1,3 +1,7 @@
+# C# compilator folders
+bin/
+obj/
+
 # Prerequisites
 *.d
 
