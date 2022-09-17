@@ -1,0 +1,15 @@
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\bin\Debug\net6.0\q1_5_lessons.exe
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\bin\Debug\net6.0\q1_5_lessons.deps.json
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\bin\Debug\net6.0\q1_5_lessons.runtimeconfig.json
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\bin\Debug\net6.0\q1_5_lessons.dll
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\bin\Debug\net6.0\q1_5_lessons.pdb
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\q1_5_lessons.csproj.AssemblyReference.cache
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\q1_5_lessons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\q1_5_lessons.AssemblyInfoInputs.cache
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\q1_5_lessons.AssemblyInfo.cs
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\q1_5_lessons.csproj.CoreCompileInputs.cache
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\q1_5_lessons.dll
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\refint\q1_5_lessons.dll
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\q1_5_lessons.pdb
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\q1_5_lessons.genruntimeconfig.cache
+D:\Data\Обучение\22-08_Аналитик_больших_данных\22-09\q1_5_lessons\obj\Debug\net6.0\ref\q1_5_lessons.dll
