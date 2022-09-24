@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\q1_5_lessons\\q1_5_lessons.csproj": {}
+    "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\Q1_5_Lessons\\q1_5_lessons.csproj": {}
   },
   "projects": {
-    "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\q1_5_lessons\\q1_5_lessons.csproj": {
+    "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\Q1_5_Lessons\\q1_5_lessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\q1_5_lessons\\q1_5_lessons.csproj",
+        "projectUniqueName": "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\Q1_5_Lessons\\q1_5_lessons.csproj",
         "projectName": "q1_5_lessons",
-        "projectPath": "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\q1_5_lessons\\q1_5_lessons.csproj",
+        "projectPath": "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\Q1_5_Lessons\\q1_5_lessons.csproj",
         "packagesPath": "C:\\Users\\mserg\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\q1_5_lessons\\obj\\",
+        "outputPath": "D:\\Data\\Обучение\\22-08_Аналитик_больших_данных\\22-09\\Q1_5_Lessons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mserg\\AppData\\Roaming\\NuGet\\NuGet.Config"
